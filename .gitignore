@@ -1,0 +1,7 @@
+*.pem
+*.tfstate
+*.tfstate.backup
+.terraform/
+terraform-outputs.txt
+__pycache__/
+*.pyc
