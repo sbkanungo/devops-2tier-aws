@@ -5,3 +5,4 @@
 terraform-outputs.txt
 __pycache__/
 *.pyc
+keys/

@@ -9,7 +9,7 @@ sudo systemctl start docker
 sudo systemctl enable docker
 
 # Pull frontend container from DockerHub (replace with your actual repo name)
-sudo docker pull your_dockerhub_username/frontend-app
+sudo docker pull sbk31/frontend-app
 
 # Run container (port 80 exposed)
-sudo docker run -d -p 80:80 your_dockerhub_username/frontend-app
+sudo docker run -d -p 80:80 sbk31/frontend-app
